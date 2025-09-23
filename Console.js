@@ -1,0 +1,11 @@
+console.clear()
+console.log("Hello")
+console.error("Hello")
+console.assert(5<3)
+console.assert(5>3)
+obj={1:1,2:2}
+console.table(obj)
+console.warn('Hello')
+console.info("Hello")
+console.time()
+console.timeEnd()
